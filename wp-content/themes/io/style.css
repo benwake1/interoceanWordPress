@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bahiana&family=Nunito+Sans:wght@200;400;600&family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: 'Open Sans', cursive;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bahiana', cursive;
+
+}
